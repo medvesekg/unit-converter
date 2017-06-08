@@ -10,7 +10,7 @@ while True:
     units = {
         
         "km/h": {
-            "kilometers per hour": "x * 0.621",
+            "miles per hour": "x * 0.621",
             "meters per second": "x * 1000 / 3600.0"
         },
         
